@@ -35,6 +35,9 @@ The implementation is available both as a Google Colab notebook and as a downloa
   `notebooks/hybrid_transfer_learning.ipynb`
 
 The notebook can be directly executed in Google Colab without additional setup. For local execution, the `.ipynb` file can be downloaded from this repository.
+## DOI
+
+https://doi.org/10.5281/zenodo.19564312
 
 ## Requirements
 
