@@ -18,11 +18,13 @@ The framework uses a two-stage training strategy:
 
 ### PlantVillage (Source Domain)
 
-[https://drive.google.com/drive/folders/1WLxetk2DPIO41wjkbEpVPOG4Omn1ir1p
-](https://doi.org/10.5281/zenodo.19564312)
+Available via Zenodo PlantVillage dataset record
+https://zenodo.org/records/1204914 
+
 ### PlantDoc (Target Domain)
 
-https://drive.google.com/drive/folders/1Izt0FxV3TUkgz7QMREkxDCBnxEDh4Do8
+Available via PlantDoc Dataset GitHub repository
+https://github.com/pratikkayal/PlantDoc-Dataset 
 
 
 ## Code
